@@ -19,7 +19,7 @@
   <img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />  
   
   
-  <img align='right' width='140px'  height='140px' src="https://github.com/luizacastelar/luizacastelar/blob/main/abstract-modern-cool-geometric-pattern-background-vector_3.png" /> 
+  <img align='right' width='140px'  height='140px' src="https://github.com/luizacastelar/luizacastelar/blob/main/ezgifcom-gif-maker.gif" /> 
  </div>
 
 ##
