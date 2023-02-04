@@ -16,7 +16,10 @@
   <img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
-  <img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />             
+  <img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />  
+  
+  
+  <img align='right' width='140px'  height='140px' src="https://github.com/luizacastelar/luizacastelar/blob/main/abstract-modern-cool-geometric-pattern-background-vector_3.png" /> 
  </div>
 
 ##
