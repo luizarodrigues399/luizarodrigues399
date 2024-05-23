@@ -34,22 +34,24 @@
   <a href='https://stackoverflow.com/users/5717639/luiza-rodrigues' target='_blank'>
     <img height='30px' src='https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white'>
   </a>
+
+  <a href='https://app.codesignal.com/profile/luiza_rodrigues/overview' target='_blank'>
+      <img height='30px' src='https://img.shields.io/badge/-codesignal-yellow?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAABQJJREFUWEfFll1sFFUUx///OzMtLTSdrSIgWhB2EwISFH3iwUSMaJQHjK5RErE7TRoNPvmFgA8kihKIvmFidWeLJJJYEjGKEb8SY6IPRqMIfmQXhIqAIXZnLfRjZ3aOmbtbaGFbdwsJ92Xv3nvuOb/zcc9c4ioPIikGelm6KhxJMRhzSusF4WYIcgCzRClHGNmQRtYbOHMEvdedvSy4x2S6bSEuUkwoICHKiEMQByVBUVs5IyUzTZb+AsSqYkgAnAJG4SQXasgw5/lWDrt5Tp/RRvy4QMUVJCFgHEAckASAOQBYRbcfiDlXb8Qc/yMB7q/LU+ERL2NEBmCnSllQFtZznsD+vGutLgOkRh4Vqne1ApEOMXBIiSREVAJgXLQnjBMyc6wRBayI/ofAN2PXBTgTRY2QLGhkiSAXklmGWAowE8lSwrX5TOOecmi6pNkOgtMAWgTYW3CtZDVv7A6xwWAZiC8AGAB3luVkPYASiJUomQe9HnrVzrc6/l4CDwIY8ExzNro5eD43tlPcBXAdgWEaWBP65u/efPRhC8OLlcUc/4AAq6A9jVTITIIH8q557yWGt4iyj6FdGSOLQjH2AWgE+I7nmo/rSIweaOvw7w4VPr1IwQiBoxLdECLrheZm9HDYdoJ1gOwaJ0uu89LmbiT/bLJbZr8MQYJEXIAFZaMXhlJY1f+29dk4gKgf2C2lPkCun6iYlDDZnzH3XutISwnBaQGaK0oGzWnmrDNv8GxbZ5AMRd6bpCBPeQPmjaO9Z9z1sB3/NQBPVw6/JEQTBXEKEiAWCvCJ51oPRPutTnEPwUd0BUD2FNyGtfpGdPr7KLgHgiNCZClhTqCGQbyo9RKve2nrmVHAcQCtqeJykt+XqxQb8hlr+3lPtohqPjk4a7B7etQXEEsFq4XyoZYlV+fT5v5o3tx1bs5gd/PfwIXaiXX6G0SwTcOK3FbINPxQFUArdvzDAiwGcNBzrWUThrJLLDsITkY6PdOci276E8nGHP9nAW4m5Ne82xDpPj8u6VAxZ2STQG2tSPyjwwjJAUaWJcmFDH8b9aDVCXYSoXhuw1M6LSlZrlRpkYgkQMajX+quKNdUamVz3rVemRTA7hiaD5pHwartUyccKrjJSzcdb0v5K0BIv2t9W9M5CRZ4PU3HJgXQaegYvg/KWBL18nJfZxwiN4xCEdiYd61tgFQiSIl1+htFUPYugiRPABJ1Q/2RQ8jD+R7z44vTVO0jUT2VSWmKzfC/E3IJgUN511o6VjDmFA8LuJiQX/ID1u3o5dCE9TNZDUx2KOb4LwjwalnGvMVz+VM0szuLt0KoK5vEpnzaqsj8P0LtEdCGhuYhNP+IUiHAjoJrPa9T1unvEMGzOvRV8jwZRl0A2lvH/wrAHQBOeO3mPL3WpzvoXBBfe2kr2qt51A3Qmip2kXyzYmGlEIqCz3XtUZ4opBtG92qCqB/gSYmxWDoFkUaIuKAiICkAxZDmnH/T7K/JckWoboBKGt4HsAZAofw1RiuID7y0Fa3VNaYE0JYaeSik6h1rSYXhw/09jePWaiGZEgA6ZJqt9AuqtWKk4IXm7OitUIvRsTJTA9AP0WIapFNWxoznmpV5fQhTB3D8OwF8qatfcFchY+l5vWPKAIjeen3B8ch9r91sr/Z2rAVm6gD6VeRvVwTzaeu5WoxVk7ksANuRZTBA7y3+eFUApmr0ityCK2E80vEfYA0C8vBSt1sAAAAASUVORK5CYII=&logoColor=white'>
+  </a>
+
   
   <!--<a href='mailto:luiza.rodrigues.cp@gmail.com' target='_blank'>
     <img height='30px' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'>
   </a>-->
 </div>
 
-<br>
+<!--<br>
 
 <div>
-  <!--<a href='https://www.udemy.com/user/luiza-rodrigues-37/' target='_blank'>
+  <a href='https://www.udemy.com/user/luiza-rodrigues-37/' target='_blank'>
     <img height='30px' src='https://img.shields.io/badge/-udemy-blueviolet?style=for-the-badge&logo=udemy&logoColor=white'>
-  </a>-->
-
-<a href='https://app.codesignal.com/profile/luiza_rodrigues/overview' target='_blank'>
-      <img height='30px' src='https://img.shields.io/badge/-codesignal-yellow?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAABQJJREFUWEfFll1sFFUUx///OzMtLTSdrSIgWhB2EwISFH3iwUSMaJQHjK5RErE7TRoNPvmFgA8kihKIvmFidWeLJJJYEjGKEb8SY6IPRqMIfmQXhIqAIXZnLfRjZ3aOmbtbaGFbdwsJ92Xv3nvuOb/zcc9c4ioPIikGelm6KhxJMRhzSusF4WYIcgCzRClHGNmQRtYbOHMEvdedvSy4x2S6bSEuUkwoICHKiEMQByVBUVs5IyUzTZb+AsSqYkgAnAJG4SQXasgw5/lWDrt5Tp/RRvy4QMUVJCFgHEAckASAOQBYRbcfiDlXb8Qc/yMB7q/LU+ERL2NEBmCnSllQFtZznsD+vGutLgOkRh4Vqne1ApEOMXBIiSREVAJgXLQnjBMyc6wRBayI/ofAN2PXBTgTRY2QLGhkiSAXklmGWAowE8lSwrX5TOOecmi6pNkOgtMAWgTYW3CtZDVv7A6xwWAZiC8AGAB3luVkPYASiJUomQe9HnrVzrc6/l4CDwIY8ExzNro5eD43tlPcBXAdgWEaWBP65u/efPRhC8OLlcUc/4AAq6A9jVTITIIH8q557yWGt4iyj6FdGSOLQjH2AWgE+I7nmo/rSIweaOvw7w4VPr1IwQiBoxLdECLrheZm9HDYdoJ1gOwaJ0uu89LmbiT/bLJbZr8MQYJEXIAFZaMXhlJY1f+29dk4gKgf2C2lPkCun6iYlDDZnzH3XutISwnBaQGaK0oGzWnmrDNv8GxbZ5AMRd6bpCBPeQPmjaO9Z9z1sB3/NQBPVw6/JEQTBXEKEiAWCvCJ51oPRPutTnEPwUd0BUD2FNyGtfpGdPr7KLgHgiNCZClhTqCGQbyo9RKve2nrmVHAcQCtqeJykt+XqxQb8hlr+3lPtohqPjk4a7B7etQXEEsFq4XyoZYlV+fT5v5o3tx1bs5gd/PfwIXaiXX6G0SwTcOK3FbINPxQFUArdvzDAiwGcNBzrWUThrJLLDsITkY6PdOci276E8nGHP9nAW4m5Ne82xDpPj8u6VAxZ2STQG2tSPyjwwjJAUaWJcmFDH8b9aDVCXYSoXhuw1M6LSlZrlRpkYgkQMajX+quKNdUamVz3rVemRTA7hiaD5pHwartUyccKrjJSzcdb0v5K0BIv2t9W9M5CRZ4PU3HJgXQaegYvg/KWBL18nJfZxwiN4xCEdiYd61tgFQiSIl1+htFUPYugiRPABJ1Q/2RQ8jD+R7z44vTVO0jUT2VSWmKzfC/E3IJgUN511o6VjDmFA8LuJiQX/ID1u3o5dCE9TNZDUx2KOb4LwjwalnGvMVz+VM0szuLt0KoK5vEpnzaqsj8P0LtEdCGhuYhNP+IUiHAjoJrPa9T1unvEMGzOvRV8jwZRl0A2lvH/wrAHQBOeO3mPL3WpzvoXBBfe2kr2qt51A3Qmip2kXyzYmGlEIqCz3XtUZ4opBtG92qCqB/gSYmxWDoFkUaIuKAiICkAxZDmnH/T7K/JckWoboBKGt4HsAZAofw1RiuID7y0Fa3VNaYE0JYaeSik6h1rSYXhw/09jePWaiGZEgA6ZJqt9AuqtWKk4IXm7OitUIvRsTJTA9AP0WIapFNWxoznmpV5fQhTB3D8OwF8qatfcFchY+l5vWPKAIjeen3B8ch9r91sr/Z2rAVm6gD6VeRvVwTzaeu5WoxVk7ksANuRZTBA7y3+eFUApmr0ityCK2E80vEfYA0C8vBSt1sAAAAASUVORK5CYII=&logoColor=white'>
   </a>
+
 
 
 <a href='https://www.freecodecamp.org/luiza_rodrigues' target='_blank'>
@@ -57,7 +59,7 @@
   </a>
 
 
-</div>
+</div>-->
 
 ##
 <div>
@@ -69,6 +71,11 @@
   <a href='https://www.figma.com/proto/17GuhGGIADO6lmY3fohFZS/escola-de-ingles?type=design&node-id=13-4&t=EyF12IRvtXaqGqYW-0&scaling=min-zoom&page-id=0%3A1' target='_blank'>
     <img height='30px' src='https://img.shields.io/badge/-eminence_english_school-red?style=for-the-badge&logo=&logoColor=white'>
   </a>
+
+  <a href='https://www.figma.com/proto/KOehvCej9NMrWhhdIoXcLP/Ciclotec?node-id=58-236&t=mhSHTk4Pz4BVVtE9-0&scaling=min-zoom&page-id=0%3A1' target='_blank'>
+    <img height='30px' src='https://img.shields.io/badge/-ciclotec_engenharia-purple?style=for-the-badge&logo=&logoColor=white'>
+  </a>
+  
 </div>
 
   
