@@ -17,7 +17,7 @@
   <img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
   <img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />  
-  
+  <img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" /> 
   
   <img align='right' width='140px'  height='140px' src="https://github.com/luizacastelar/luizacastelar/blob/main/ezgifcom-gif-maker.gif" /> 
  </div>
