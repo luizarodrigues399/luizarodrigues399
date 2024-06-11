@@ -72,7 +72,7 @@
     <img height='30px' src='https://img.shields.io/badge/-eminence_english_school-red?style=for-the-badge&logo=&logoColor=white'>
   </a>
 
-  <a href='https://www.figma.com/proto/KOehvCej9NMrWhhdIoXcLP/Ciclotec?node-id=1-2&t=mhSHTk4Pz4BVVtE9-0&scaling=min-zoom&page-id=0%3A1' target='_blank'>
+  <a href='https://ciclotecengenharia.com.br/' target='_blank'>
     <img height='30px' src='https://img.shields.io/badge/-ciclotec_engenharia-purple?style=for-the-badge&logo=&logoColor=white'>
   </a>
   
