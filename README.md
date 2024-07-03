@@ -18,6 +18,14 @@
   <img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
   <img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />  
   <img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" /> 
+</div>
+
+##
+
+<div>
+  <p> Aprendendo: </p>
+  <img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+  <img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
   
   <img align='right' width='140px'  height='140px' src="https://github.com/luizacastelar/luizacastelar/blob/main/ezgifcom-gif-maker.gif" /> 
  </div>
