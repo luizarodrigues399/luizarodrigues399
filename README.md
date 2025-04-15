@@ -25,7 +25,7 @@
 <div>
   <p> Aprendendo: </p>
   <img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-  <img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+  <img height='50px' src="https://github.com/devicons/devicon/blob/v2.16.0/icons/wordpress/wordpress-plain.svg" />
   
   <img align='right' width='140px'  height='140px' src="https://github.com/luizacastelar/luizacastelar/blob/main/ezgifcom-gif-maker.gif" /> 
  </div>
@@ -43,9 +43,9 @@
     <img height='30px' src='https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white'>
   </a>
 
-  <a href='https://app.codesignal.com/profile/luiza_rodrigues/overview' target='_blank'>
+  <!--<a href='https://app.codesignal.com/profile/luiza_rodrigues/overview' target='_blank'>
       <img height='30px' src='https://img.shields.io/badge/-codesignal-yellow?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAABQJJREFUWEfFll1sFFUUx///OzMtLTSdrSIgWhB2EwISFH3iwUSMaJQHjK5RErE7TRoNPvmFgA8kihKIvmFidWeLJJJYEjGKEb8SY6IPRqMIfmQXhIqAIXZnLfRjZ3aOmbtbaGFbdwsJ92Xv3nvuOb/zcc9c4ioPIikGelm6KhxJMRhzSusF4WYIcgCzRClHGNmQRtYbOHMEvdedvSy4x2S6bSEuUkwoICHKiEMQByVBUVs5IyUzTZb+AsSqYkgAnAJG4SQXasgw5/lWDrt5Tp/RRvy4QMUVJCFgHEAckASAOQBYRbcfiDlXb8Qc/yMB7q/LU+ERL2NEBmCnSllQFtZznsD+vGutLgOkRh4Vqne1ApEOMXBIiSREVAJgXLQnjBMyc6wRBayI/ofAN2PXBTgTRY2QLGhkiSAXklmGWAowE8lSwrX5TOOecmi6pNkOgtMAWgTYW3CtZDVv7A6xwWAZiC8AGAB3luVkPYASiJUomQe9HnrVzrc6/l4CDwIY8ExzNro5eD43tlPcBXAdgWEaWBP65u/efPRhC8OLlcUc/4AAq6A9jVTITIIH8q557yWGt4iyj6FdGSOLQjH2AWgE+I7nmo/rSIweaOvw7w4VPr1IwQiBoxLdECLrheZm9HDYdoJ1gOwaJ0uu89LmbiT/bLJbZr8MQYJEXIAFZaMXhlJY1f+29dk4gKgf2C2lPkCun6iYlDDZnzH3XutISwnBaQGaK0oGzWnmrDNv8GxbZ5AMRd6bpCBPeQPmjaO9Z9z1sB3/NQBPVw6/JEQTBXEKEiAWCvCJ51oPRPutTnEPwUd0BUD2FNyGtfpGdPr7KLgHgiNCZClhTqCGQbyo9RKve2nrmVHAcQCtqeJykt+XqxQb8hlr+3lPtohqPjk4a7B7etQXEEsFq4XyoZYlV+fT5v5o3tx1bs5gd/PfwIXaiXX6G0SwTcOK3FbINPxQFUArdvzDAiwGcNBzrWUThrJLLDsITkY6PdOci276E8nGHP9nAW4m5Ne82xDpPj8u6VAxZ2STQG2tSPyjwwjJAUaWJcmFDH8b9aDVCXYSoXhuw1M6LSlZrlRpkYgkQMajX+quKNdUamVz3rVemRTA7hiaD5pHwartUyccKrjJSzcdb0v5K0BIv2t9W9M5CRZ4PU3HJgXQaegYvg/KWBL18nJfZxwiN4xCEdiYd61tgFQiSIl1+htFUPYugiRPABJ1Q/2RQ8jD+R7z44vTVO0jUT2VSWmKzfC/E3IJgUN511o6VjDmFA8LuJiQX/ID1u3o5dCE9TNZDUx2KOb4LwjwalnGvMVz+VM0szuLt0KoK5vEpnzaqsj8P0LtEdCGhuYhNP+IUiHAjoJrPa9T1unvEMGzOvRV8jwZRl0A2lvH/wrAHQBOeO3mPL3WpzvoXBBfe2kr2qt51A3Qmip2kXyzYmGlEIqCz3XtUZ4opBtG92qCqB/gSYmxWDoFkUaIuKAiICkAxZDmnH/T7K/JckWoboBKGt4HsAZAofw1RiuID7y0Fa3VNaYE0JYaeSik6h1rSYXhw/09jePWaiGZEgA6ZJqt9AuqtWKk4IXm7OitUIvRsTJTA9AP0WIapFNWxoznmpV5fQhTB3D8OwF8qatfcFchY+l5vWPKAIjeen3B8ch9r91sr/Z2rAVm6gD6VeRvVwTzaeu5WoxVk7ksANuRZTBA7y3+eFUApmr0ityCK2E80vEfYA0C8vBSt1sAAAAASUVORK5CYII=&logoColor=white'>
-  </a>
+  </a>-->
 
   
   <!--<a href='mailto:luiza.rodrigues.cp@gmail.com' target='_blank'>
@@ -71,19 +71,62 @@
 
 ##
 <div>
-  <p> Projetos nos quais trabalhei: </p>
+  <p> Projetos nos quais trabalhei desenvolvendo o layout e implementando (freelancers): </p>
    <a href='https://keithleepsicologa.com.br' target='_blank'>
-    <img height='30px' src='https://img.shields.io/badge/-keithleepsicologia-success?style=for-the-badge&logo=&logoColor=white'>
+    <img height='30px' src='https://img.shields.io/badge/keithleepsicologia-success?style=for-the-badge&logo=&logoColor=white'>
   </a>
 
   <a href='https://inglespapocerto.com.br' target='_blank'>
-    <img height='30px' src='https://img.shields.io/badge/-eminence_english_school-red?style=for-the-badge&logo=&logoColor=white'>
+    <img height='30px' src='https://img.shields.io/badge/eminence_english_school-red?style=for-the-badge&logo=&logoColor=white'>
   </a>
 
   <a href='https://ciclotecengenharia.com.br/' target='_blank'>
-    <img height='30px' src='https://img.shields.io/badge/-ciclotec_engenharia-purple?style=for-the-badge&logo=&logoColor=white'>
+    <img height='30px' src='https://img.shields.io/badge/ciclotec_engenharia-purple?style=for-the-badge&logo=&logoColor=white'>
   </a>
   
+  <a href='https://kelvinmarquesortodontia.com.br' target='_blank'>
+    <img height='30px' src='https://img.shields.io/badge/kelvin_marques_odonto-yellow?style=for-the-badge&logo=&logoColor=white'>
+  </a>
 </div>
 
+##
+<div>
+  <p> Projetos nos quais trabalhei - desenvolvimento (clt/empresa). Clique para ver os sites: </p>
+   <a href='https://southti.com.br/autovale/' target='_blank'>
+    <img height='30px' src='https://img.shields.io/badge/autovale-success?style=for-the-badge&logo=&logoColor=white'>
+  </a>
+
+  <a href='https://absolutabeneficios.org.br/' target='_blank'>
+    <img height='30px' src='https://img.shields.io/badge/absoluta_beneficios-red?style=for-the-badge&logo=&logoColor=white'>
+  </a>
+
+  <a href='https://protegemaisbeneficios.com.br/' target='_blank'>
+    <img height='30px' src='https://img.shields.io/badge/protege_mais_beneficios-purple?style=for-the-badge&logo=&logoColor=white'>
+  </a>
+  
+  <a href='https://autogestaopv.com.br/' target='_blank'>
+    <img height='30px' src='https://img.shields.io/badge/auto_gestao_pv-yellow?style=for-the-badge&logo=&logoColor=white'>
+  </a>
+
+  <a href='https://setaprotecao.com.br/' target='_blank'>
+    <img height='30px' src='https://img.shields.io/badge/seta_protecao-blue?style=for-the-badge&logo=&logoColor=white'>
+  </a>
+
+  <a href='https://southti.com.br/lnpro/' target='_blank'>
+    <img height='30px' src='https://img.shields.io/badge/ln_pro-green?style=for-the-badge&logo=&logoColor=white'>
+  </a>
+
+  <a href='https://maximizepv.org.br' target='_blank'>
+    <img height='30px' src='https://img.shields.io/badge/maximize_pv-pink?style=for-the-badge&logo=&logoColor=white'>
+  </a>
+  
+  <a href='https://ativabrasilpv.com.br' target='_blank'>
+    <img height='30px' src='https://img.shields.io/badge/ativa_brasil_pv-orange?style=for-the-badge&logo=&logoColor=white'>
+  </a>
+
+
+   <a href='https://vgbassociacao.com.br' target='_blank'>
+    <img height='30px' src='https://img.shields.io/badge/vgb_associacao-brown?style=for-the-badge&logo=&logoColor=white'>
+  </a>
+</div>
   
