@@ -92,9 +92,13 @@
 ##
 <div>
   <p> Projetos nos quais trabalhei - desenvolvimento (clt/empresa). Clique para ver os sites: </p>
-   <a href='https://southti.com.br/autovale/' target='_blank'>
-    <img height='30px' src='https://img.shields.io/badge/autovale-success?style=for-the-badge&logo=&logoColor=white'>
-  </a>
+   <!--<a href='https://southti.com.br/autovale/' target='_blank'>
+        <img height='30px' src='https://img.shields.io/badge/autovale-success?style=for-the-badge&logo=&logoColor=white'>
+       </a> -->
+
+  <!--<a href='https://southti.com.br/lnpro/' target='_blank'>
+    <img height='30px' src='https://img.shields.io/badge/ln_pro-green?style=for-the-badge&logo=&logoColor=white'>
+  </a>-->
 
   <a href='https://absolutabeneficios.org.br/' target='_blank'>
     <img height='30px' src='https://img.shields.io/badge/absoluta_beneficios-red?style=for-the-badge&logo=&logoColor=white'>
@@ -112,10 +116,6 @@
     <img height='30px' src='https://img.shields.io/badge/seta_protecao-blue?style=for-the-badge&logo=&logoColor=white'>
   </a>
 
-  <a href='https://southti.com.br/lnpro/' target='_blank'>
-    <img height='30px' src='https://img.shields.io/badge/ln_pro-green?style=for-the-badge&logo=&logoColor=white'>
-  </a>
-
   <a href='https://maximizepv.org.br' target='_blank'>
     <img height='30px' src='https://img.shields.io/badge/maximize_pv-pink?style=for-the-badge&logo=&logoColor=white'>
   </a>
@@ -123,8 +123,7 @@
   <a href='https://ativabrasilpv.com.br' target='_blank'>
     <img height='30px' src='https://img.shields.io/badge/ativa_brasil_pv-orange?style=for-the-badge&logo=&logoColor=white'>
   </a>
-
-
+  
    <a href='https://vgbassociacao.com.br' target='_blank'>
     <img height='30px' src='https://img.shields.io/badge/vgb_associacao-brown?style=for-the-badge&logo=&logoColor=white'>
   </a>
