@@ -84,7 +84,7 @@
     <img height='30px' src='https://img.shields.io/badge/ciclotec_engenharia-purple?style=for-the-badge&logo=&logoColor=white'>
   </a>
   
-  <a href='https://kelvinmarquesortodontia.com.br' target='_blank'>
+  <a href='https://luizarodrigues399.github.io/kelvinMarquesOdonto' target='_blank'>
     <img height='30px' src='https://img.shields.io/badge/kelvin_marques_odonto-yellow?style=for-the-badge&logo=&logoColor=white'>
   </a>
 </div>
