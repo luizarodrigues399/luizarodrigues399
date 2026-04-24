@@ -100,9 +100,9 @@
     <img height='30px' src='https://img.shields.io/badge/ln_pro-green?style=for-the-badge&logo=&logoColor=white'>
   </a>-->
 
-  <a href='https://absolutabeneficios.org.br/' target='_blank'>
+  <!--<a href='https://absolutabeneficios.org.br/' target='_blank'>
     <img height='30px' src='https://img.shields.io/badge/absoluta_beneficios-red?style=for-the-badge&logo=&logoColor=white'>
-  </a>
+  </a>-->
 
   <a href='https://protegemaisbeneficios.com.br/' target='_blank'>
     <img height='30px' src='https://img.shields.io/badge/protege_mais_beneficios-purple?style=for-the-badge&logo=&logoColor=white'>
