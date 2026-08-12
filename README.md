@@ -1,8 +1,8 @@
-<div>
+<!--<div>
   <img height='180px' src='https://github-readme-stats.vercel.app/api?username=luizarodrigues399&count_private=true&show_icons=true&hide_rank=true&include_all_commits=true'>
   
   <img height='180px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=luizarodrigues399'>
-</div>
+</div>-->
     
 ##   
     
